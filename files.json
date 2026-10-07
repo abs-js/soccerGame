@@ -1,5 +1,5 @@
 {
-  "id": "School Soccer",
+  "id": "SchoolSoccermb",
   "version": "1.0.0",
   "entry": "index.html",
   "keep": ["index.html", "styles.css", "game.js", "icon.svg"],
