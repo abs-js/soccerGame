@@ -1,8 +1,9 @@
 {
   "id": "SchoolSoccermb",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "entry": "index.html",
   "keep": ["index.html", "styles.css", "game.js", "icon.svg"],
   "files": ["icon.svg", "card.png"],
-  "description": "Jogue um jogo de futebol na escola mesmo! É leve e não puxa dados."
+  "description": "Jogue um jogo de futebol na escola mesmo! É leve e não puxa dados.",
+  "asNew": "Atualização imensa do jogo! É melhor você mesmo verificar..."
 }
